@@ -4,11 +4,7 @@ Welcome to the **Time Calculator**! This Python-based terminal application allow
 
 ## Features
 
-- Allows users to input time in a 12-hour format (HH:MM:SS AM/PM).
-- Add or subtract time in hours, minutes, or seconds.
-- Automatically handles AM/PM and converts between them when needed.
-- Simple, interactive command-line interface.
-- Clears the screen after each interaction for a clean user experience.
+- Add UI
 
 ## How to Use
 
