@@ -2,7 +2,7 @@
 
 Welcome to the **Time Calculator**! This Python-based terminal application allows users to manipulate time by adding or subtracting hours, minutes, and seconds.
 
-## Features
+## Feature
 
 - Add UI
 
