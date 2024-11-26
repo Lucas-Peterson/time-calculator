@@ -4,7 +4,7 @@ Welcome to the **Time Calculator**! This Python-based terminal application allow
 
 ## Feature
 
-- Add UI
+- Counting time
 
 ## How to Use
 
